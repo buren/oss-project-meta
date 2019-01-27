@@ -12,7 +12,7 @@ Here you should explain how a user of the project can get it up and running on t
 
 List anything that the project requires for setup. For example it could be things like programming languages, databases, docker etc.
 
-### Installing
+### Installation
 
 Explain the installation process shortly. You shouldn't explain every possible installation option here. Try to be brief and cover the standard case and then add links to where the user can find more information.
 
